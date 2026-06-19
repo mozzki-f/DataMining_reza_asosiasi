@@ -1,5 +1,7 @@
 # 🍞 Analisis Pola Pembelian Pelanggan Toko Roti menggunakan Association Rule Mining
 
+![tamnel foto](DataMining_reza_asosiasi/foto_bakery_assets/tamnel_foto.jpeg)
+
 | **Portofolio Google Sites** | [Klik di sini](https://sites.google.com/view/muhamadrezafaurizki) |
 | **Video Presentasi** | [Klik di sini]([LINK_YOUTUBE_ANDA]) |
 
