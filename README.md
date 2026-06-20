@@ -3,7 +3,7 @@
 ![tamnel foto](foto_bakery_assets/tamnel_foto.jpeg)
 
 | **Portofolio Google Sites** | [Klik di sini](https://sites.google.com/view/muhamadrezafaurizki) |
-| **Video Presentasi** | [Klik di sini]([LINK_YOUTUBE_ANDA]) |
+| **Video Presentasi** | [Klik di sini](https://youtu.be/JLcLge1dUt0?si=l2dMGkSFGd2Ogj19) |
 
 
 ---
