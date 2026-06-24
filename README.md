@@ -109,7 +109,7 @@ Proyek ini merupakan implementasi teknik **Association Rule Mining** untuk menga
 | **Platform** | **Link** |
 |---|---|
 | **Portofolio Google Sites** | [Klik di sini](https://sites.google.com/view/muhamadrezafaurizki) |
-| **Video Presentasi** | [Klik di sini]([LINK_YOUTUBE_ANDA]) |
+| **Video Presentasi** | [Klik di sini](https://youtu.be/JLcLge1dUt0?si=l2dMGkSFGd2Ogj19) |
 
 ---
 
@@ -117,9 +117,9 @@ Proyek ini merupakan implementasi teknik **Association Rule Mining** untuk menga
 
 | **Platform** | **Informasi** |
 |---|---|
-| **Email** | [email.anda@gmail.com]() |
-| **LinkedIn** | [linkedin.com/in/username]() |
-| **GitHub** | [github.com/username]() |
+| **Email** | [klik disini](mrezafaurizki05@gmail.com) |
+| **LinkedIn** | [klik disini](https://www.linkedin.com/in/muhamad-reza-faurizki) |
+| **GitHub** | [klik disini](https://github.com/mozzki-f) |
 
 ---
 
