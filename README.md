@@ -117,8 +117,8 @@ Proyek ini merupakan implementasi teknik **Association Rule Mining** untuk menga
 
 | **Platform** | **Informasi** |
 |---|---|
-| **Email** | [klik disini](mrezafaurizki05@gmail.com) |
-| **LinkedIn** | [klik disini](https://www.linkedin.com/in/muhamad-reza-faurizki) |
+| **Email** | [klik disini](mailto:mrezafaurizki05@gmail.com) |
+| **LinkedIn** | [klik disini](https://www.linkedin.com/in/muhamad-reza-faurizki-7a122b416) |
 | **GitHub** | [klik disini](https://github.com/mozzki-f) |
 
 ---
